@@ -1,0 +1,80 @@
+Parking2 (LBP-17P1n2)
+
+Rainy
+ \\PKLot\\parking2\\rainy\\2012-10-11\\2012-10-11_10_56_39
+ \\PKLot\\parking2\\rainy\\2012-10-11\\2012-10-11_07_57_16
+ \\PKLot\\parking2\\rainy\\2012-10-11\\2012-10-11_08_46_33
+ \\PKLot\\parking2\\rainy\\2012-10-11\\2012-10-11_12_31_44
+ \\PKLot\\parking2\\rainy\\2012-09-16\\2012-09-16_06_32_55
+ \\PKLot\\parking2\\rainy\\2012-09-16\\2012-09-16_07_52_58
+ \\PKLot\\parking2\\rainy\\2012-09-21\\2012-09-21_08_00_15
+ \\PKLot\\parking2\\rainy\\2012-09-21\\2012-09-21_07_10_13
+ \\PKLot\\parking2\\rainy\\2012-09-21\\2012-09-21_13_00_27
+ \\PKLot\\parking2\\rainy\\2012-09-21\\2012-09-21_14_00_30
+
+
+Cloudy
+ \\PKLot\\parking2\\cloudy\\2012-09-28\\2012-09-28_07_16_00
+ \\PKLot\\parking2\\cloudy\\2012-09-28\\2012-09-28_12_26_15
+ \\PKLot\\parking2\\cloudy\\2012-09-28\\2012-09-28_17_26_29
+ \\PKLot\\parking2\\cloudy\\2012-09-12\\2012-09-12_09_50_14
+ \\PKLot\\parking2\\cloudy\\2012-09-12\\2012-09-12_08_05_25
+ \\PKLot\\parking2\\cloudy\\2012-09-28\\2012-09-28_11_06_11
+ \\PKLot\\parking2\\cloudy\\2012-09-16\\2012-10-16_06_01_42
+ \\PKLot\\parking2\\cloudy\\2012-09-16\\2012-10-16_09_08_28
+ \\PKLot\\parking2\\cloudy\\2012-09-16\\2012-10-16_11_18_35
+ \\PKLot\\parking2\\cloudy\\2012-09-12\\2012-09-12_09_55_29
+
+========================================================================================
+Parking1a (LBP-17P1n2)
+
+Rainy
+ \\PKLot\\parking1a\\rainy\\2012-12-08\\2012-12-08_18_30_15
+ \\PKLot\\parking1a\\rainy\\2012-12-08\\2012-12-08_19_50_16
+ \\PKLot\\parking1a\\rainy\\2012-12-08\\2012-12-08_18_55_15
+ \\PKLot\\parking1a\\rainy\\2012-12-07\\2012-12-07_16_52_25
+ \\PKLot\\parking1a\\rainy\\2012-12-07\\2012-12-07_16_47_25
+ \\PKLot\\parking1a\\rainy\\2012-12-11\\2012-12-11_14_51_07
+ \\PKLot\\parking1a\\rainy\\2012-12-11\\2012-12-11_15_31_07
+ \\PKLot\\parking1a\\rainy\\2012-12-11\\2012-12-11_15_46_08
+ \\PKLot\\parking1a\\rainy\\2012-12-11\\2012-12-11_16_01_08
+ \\PKLot\\parking1a\\rainy\\2012-12-11\\2012-12-11_16_56_09
+
+Cloudy
+ \\PKLot\\parking1a\\cloudy\\2012-12-14\\2012-12-14_09_15_04
+ \\PKLot\\parking1a\\cloudy\\2012-12-14\\2012-12-14_09_35_05
+ \\PKLot\\parking1a\\cloudy\\2012-12-14\\2012-12-14_19_40_17
+ \\PKLot\\parking1a\\cloudy\\2012-12-14\\2012-12-14_18_20_15
+ \\PKLot\\parking1a\\cloudy\\2012-12-12\\2012-12-12_10_00_05
+ \\PKLot\\parking1a\\cloudy\\2012-12-12\\2012-12-12_10_30_05
+ \\PKLot\\parking1a\\cloudy\\2012-12-12\\2012-12-12_11_20_06
+ \\PKLot\\parking1a\\cloudy\\2012-12-12\\2012-12-12_12_05_07
+ \\PKLot\\parking1a\\cloudy\\2012-12-15\\2012-12-15_07_45_03
+ \\PKLot\\parking1a\\cloudy\\2012-12-15\\2012-12-15_09_50_05
+
+=========================================================================================
+Parking1b (LBP-20P1b)
+
+Rainy
+ \\PKLot\\parking1b\\rainy\\2013-02-26\\2013-02-26_13_04_33
+ \\PKLot\\parking1b\\rainy\\2013-02-26\\2013-02-26_13_19_33
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_13_25_08
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_14_10_09
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_15_30_11
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_15_55_11
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_16_10_11
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_17_25_13
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_18_10_14
+ \\PKLot\\parking1b\\rainy\\2013-03-13\\2013-03-13_18_25_14
+
+Cloudy
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_13_24_34
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_13_34_34
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_14_24_35
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_14_49_35
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_15_44_36
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_16_19_37
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_17_24_38
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_18_24_39
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_18_54_40
+ \\PKLot\\parking1b\\cloudy\\2013-02-26\\2013-02-26_13_54_34

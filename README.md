@@ -1,5 +1,5 @@
 # ParkingLotVacancyDetector
-## Detects the cars parked in the parking lot and returns the empty spots. Using HAAR and LBP Cascade Classifiers to detect features of cars. And then return the empty parking spots based on the ground Truth file.
+Detects the cars parked in the parking lot and returns the empty spots. Using HAAR and LBP Cascade Classifiers to detect features of cars. And then return the empty parking spots based on the ground Truth file.
 
 ### HAAR 
 * Positives: 3800 

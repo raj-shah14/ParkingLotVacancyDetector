@@ -19,7 +19,7 @@ Parking 2
 ![alt text](https://github.com/raj-shah14/ParkingLotVacancyDetector/blob/master/2013-02-26_15_14_36.jpg)
 
 ## Training
-### Cropped car from the cordinated provided in xml file.
+### Cropped car from the cordinates provided in xml file.
 ![alt text](https://github.com/raj-shah14/ParkingLotVacancyDetector/blob/master/cropcar.jpg)
 
 ## Output
